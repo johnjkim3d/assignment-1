@@ -1,0 +1,62 @@
+    body {
+        background-color: rgba(181, 230, 255, .3);
+    }
+    header {
+        text-align: center;
+        padding: 10px;
+    }
+    h1 {
+      font-size: 40px;
+      font-family: helvetica;
+    }
+    .boxfirstheader {
+        border-style: solid;
+        margin: 10px;
+    }
+    li {
+        display: inline;
+        padding: 10px;
+        text-align: center;
+        font-style: italic;
+        font-size: 20px;
+        font-family: helvetica;
+        font-weight: bold;
+    }
+    h2 {
+      font-size: 30px;
+      font-family: helvetica;
+      padding: 20px;
+    }
+    .fullbiowindow {
+        display: inline-flex;
+    }
+    .biography {
+        color: teal;
+        font-size: 20px;
+        font-family: Gotham Medium;
+        text-align: left;
+        max-width: 500px;
+        padding: 20px;
+        left: 400px
+    }
+    img {
+        max-width: 100%
+        height: 350px;
+        width: 350px;
+        border-radius: 30px;
+        border: rgba(255, 228, 171, 1);
+    }
+    .links {
+        color: black;
+        font-family: helvetica;
+        font-weight: bold;
+        font-size: 15px;
+        text-align: center;
+    }
+    .externals {
+        font-style: normal;
+    }
+    .boxbottomheader {
+        border-style: solid;
+        margin: 10px;
+    }
